@@ -12,6 +12,12 @@ dependency / 依赖
 
     $ pip install git+https://github.com/efvhi/imgs2asciianimation.git
 
+    $ imgs2asciianimation -d [图片文件夹名字] -p [图片前缀]
+
+
+
+注意图片名字的格式必须是 xxxx0001.jpg xxxx0002.jpg 这种格式！
+
 
 Usage and examples / 使用例子
 ==================
