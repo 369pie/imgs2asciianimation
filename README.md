@@ -18,6 +18,14 @@ Usage and examples / 使用例子
 
 ![](https://github.com/efvhi/imgs2asciianimation/raw/master/example.png)
 
+
+Demo
+====
+
+实际例子在线演示传送门: https://www.bilibili.com/video/av67062753
+
+
+
 Bugs
 ====
 
